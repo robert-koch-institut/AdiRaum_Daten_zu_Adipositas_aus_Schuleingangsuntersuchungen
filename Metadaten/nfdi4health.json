@@ -1,0 +1,369 @@
+{
+  "resource": {
+    "classification": {
+      "type": "Dataset"
+    },
+    "collection": [
+      "Robert Koch Institute"
+    ],
+    "descriptions": [
+      {
+        "language": "DE (German)",
+        "text": "Der Datensatz \"AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen\" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt."
+      }
+    ],
+    "titles": [
+      {
+        "language": "DE (German)",
+        "text": "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen"
+      }
+    ],
+    "ids": [
+      {
+        "identifier": "10.5281/zenodo.15095485",
+        "typeGeneral": "Dataset",
+        "relationType": "A references B",
+        "scheme": "DOI"
+      },
+      {
+        "identifier": "https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
+        "typeGeneral": "Dataset",
+        "relationType": "A references B",
+        "scheme": "URL"
+      }
+    ],
+    "provenance": {
+      "dataSource": "Automatically uploaded: Other"
+    },
+    "keywords": [
+      {
+        "label": "Open Data"
+      },
+      {
+        "label": "Offene Daten"
+      },
+      {
+        "label": "Adipositas",
+        "code": "http://id.nlm.nih.gov/mesh/D009765"
+      },
+      {
+        "label": "Körpergewicht",
+        "code": "http://id.nlm.nih.gov/mesh/D001835"
+      },
+      {
+        "label": "Öffentliche Berichterstattung über Gesundheitsdaten",
+        "code": "http://id.nlm.nih.gov/mesh/D000079204"
+      },
+      {
+        "label": "Übergewicht",
+        "code": "http://id.nlm.nih.gov/mesh/D050177"
+      },
+      {
+        "label": "RKI"
+      },
+      {
+        "label": "Deutschland"
+      },
+      {
+        "label": "Obesity",
+        "code": "http://id.nlm.nih.gov/mesh/D009765"
+      },
+      {
+        "label": "Overweight",
+        "code": "http://id.nlm.nih.gov/mesh/D050177"
+      },
+      {
+        "label": "Body Weight",
+        "code": "http://id.nlm.nih.gov/mesh/D001835"
+      },
+      {
+        "label": "Public Reporting of Healthcare Data",
+        "code": "http://id.nlm.nih.gov/mesh/D000079204"
+      },
+      {
+        "label": "Schuleingangsuntersuchung"
+      },
+      {
+        "label": "Einschulungsuntersuchung"
+      },
+      {
+        "label": "School entrance examination"
+      },
+      {
+        "label": "Vorschulkinder",
+        "code": "http://id.nlm.nih.gov/mesh/D002675"
+      },
+      {
+        "label": "Preschool children",
+        "code": "http://id.nlm.nih.gov/mesh/D002675"
+      },
+      {
+        "label": "Einflussfaktoren"
+      },
+      {
+        "label": "Influencing factors"
+      },
+      {
+        "label": "Small-Area Analysis",
+        "code": "http://id.nlm.nih.gov/mesh/D017062"
+      },
+      {
+        "label": "kleinräumige Datenanalyse",
+        "code": "http://id.nlm.nih.gov/mesh/D017062"
+      },
+      {
+        "label": "sozioökonomische Deprivation"
+      },
+      {
+        "label": "Socioeconomic deprivation"
+      },
+      {
+        "label": "Indikatoren"
+      },
+      {
+        "label": "indicators"
+      },
+      {
+        "label": "Kindergesundheit",
+        "code": "http://id.nlm.nih.gov/mesh/D000067576"
+      },
+      {
+        "label": "Child health",
+        "code": "http://id.nlm.nih.gov/mesh/D000067576"
+      },
+      {
+        "label": "Gesundheitsmonitoring",
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
+      },
+      {
+        "label": "Public Health Surveillance",
+        "code": "http://id.nlm.nih.gov/mesh/D062486"
+      },
+      {
+        "label": "Gesundheitsberichterstattung",
+        "code": "http://id.nlm.nih.gov/mesh/D000079204"
+      },
+      {
+        "label": "Health Reporting",
+        "code": "http://id.nlm.nih.gov/mesh/D000079204"
+      },
+      {
+        "label": "AdiRaum"
+      },
+      {
+        "label": "Dashboard",
+        "code": "http://id.nlm.nih.gov/mesh/D000095489"
+      },
+      {
+        "label": "Germany"
+      }
+    ],
+    "languages": [
+      "DE (German)"
+    ],
+    "nonStudyDetails": {
+      "useRights": {
+        "confirmations": {
+          "authority": true,
+          "irrevocability": true,
+          "terms": true,
+          "supportByLicensing": true
+        },
+        "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
+      },
+      "version": "2025-11-12"
+    },
+    "webpage": "https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
+    "contributors": [
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "organisational": {
+          "name": "Robert Koch-Institut",
+          "type": "Creator/Author"
+        }
+      },
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "personal": {
+          "type": "Researcher",
+          "givenName": "Charlotte",
+          "familyName": "Kühnelt",
+          "identifiers": [
+            {
+              "identifier": "0009-0003-8582-055X",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "personal": {
+          "type": "Researcher",
+          "givenName": "Anne ",
+          "familyName": "Starker",
+          "identifiers": [
+            {
+              "identifier": "0000-0002-9218-9263",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "nameType": "Personal",
+        "affiliations": [
+          {
+            "name": "Robert Koch-Institut",
+            "identifiers": [
+              {
+                "identifier": "01k5qnb77",
+                "scheme": "ROR"
+              }
+            ]
+          }
+        ],
+        "personal": {
+          "type": "Project leader",
+          "givenName": "Anja ",
+          "familyName": "Schienkiewitz",
+          "identifiers": [
+            {
+              "identifier": "0000-0003-3821-9772",
+              "scheme": "ORCID"
+            }
+          ]
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Landesgesundheitsamt Baden-Württemberg"
+          }
+        ],
+        "organisational": {
+          "name": "Landesgesundheitsamt Baden-Württemberg",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit"
+          }
+        ],
+        "organisational": {
+          "name": "Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (Berlin)"
+          }
+        ],
+        "organisational": {
+          "name": "Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (Berlin)",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Ministerium für Gesundheit und Soziales (Brandenburg)"
+          }
+        ],
+        "organisational": {
+          "name": "Ministerium für Gesundheit und Soziales (Brandenburg)",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)"
+          }
+        ],
+        "organisational": {
+          "name": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)"
+          }
+        ],
+        "organisational": {
+          "name": "Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Landesamt für Verbraucherschutz Sachsen-Anhalt"
+          }
+        ],
+        "organisational": {
+          "name": "Landesamt für Verbraucherschutz Sachsen-Anhalt",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Ministerium für Justiz und Gesundheit des Landes Schleswig-Holstein"
+          }
+        ],
+        "organisational": {
+          "name": "Ministerium für Justiz und Gesundheit des Landes Schleswig-Holstein",
+          "type": "Data curator"
+        }
+      }
+    ]
+  }
+}

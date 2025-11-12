@@ -1,0 +1,304 @@
+{
+  "title": "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen",
+  "description": "Der Datensatz \"AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen\" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.",
+  "resource_type": {
+    "id": "dataset"
+  },
+  "publication_date": "2025-11-12",
+  "creators": [
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Robert Koch-Institut",
+        "identifiers": [
+          {
+            "scheme": "ror",
+            "identifier": "01k5qnb77"
+          }
+        ]
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Kühnelt",
+        "given_name": "Charlotte",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0009-0003-8582-055X"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Starker",
+        "given_name": "Anne ",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0002-9218-9263"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "researcher"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "personal",
+        "family_name": "Schienkiewitz",
+        "given_name": "Anja ",
+        "identifiers": [
+          {
+            "scheme": "orcid",
+            "identifier": "0000-0003-3821-9772"
+          }
+        ]
+      },
+      "affiliations": [
+        {
+          "name": "Robert Koch-Institut",
+          "id": "01k5qnb77"
+        }
+      ],
+      "role": {
+        "id": "projectleader"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Landesgesundheitsamt Baden-Württemberg"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (Berlin)"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Ministerium für Gesundheit und Soziales (Brandenburg)"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Landesamt für Verbraucherschutz Sachsen-Anhalt"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
+        "name": "Ministerium für Justiz und Gesundheit des Landes Schleswig-Holstein"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    }
+  ],
+  "publisher": "Zenodo",
+  "version": "2025-11-12",
+  "dates": [
+    {
+      "date": "2024-09-15T00:00:00+02:00",
+      "type": {
+        "id": "created"
+      },
+      "description": "Date when the dataset was created"
+    }
+  ],
+  "languages": [
+    {
+      "id": "deu"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "relation_type": {
+        "id": "issupplementto"
+      },
+      "identifier": "https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
+      "resource_type": {
+        "id": "dataset"
+      }
+    }
+  ],
+  "rights": [
+    {
+      "id": "cc-by-4.0"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Open Data"
+    },
+    {
+      "subject": "Offene Daten"
+    },
+    {
+      "subject": "Adipositas"
+    },
+    {
+      "subject": "Körpergewicht"
+    },
+    {
+      "subject": "Öffentliche Berichterstattung über Gesundheitsdaten"
+    },
+    {
+      "subject": "Übergewicht"
+    },
+    {
+      "subject": "RKI"
+    },
+    {
+      "subject": "Deutschland"
+    },
+    {
+      "subject": "Obesity"
+    },
+    {
+      "subject": "Overweight"
+    },
+    {
+      "subject": "Body Weight"
+    },
+    {
+      "subject": "Public Reporting of Healthcare Data"
+    },
+    {
+      "subject": "Schuleingangsuntersuchung"
+    },
+    {
+      "subject": "Einschulungsuntersuchung"
+    },
+    {
+      "subject": "School entrance examination"
+    },
+    {
+      "subject": "Vorschulkinder"
+    },
+    {
+      "subject": "Preschool children"
+    },
+    {
+      "subject": "Einflussfaktoren"
+    },
+    {
+      "subject": "Influencing factors"
+    },
+    {
+      "subject": "Small-Area Analysis"
+    },
+    {
+      "subject": "kleinräumige Datenanalyse"
+    },
+    {
+      "subject": "sozioökonomische Deprivation"
+    },
+    {
+      "subject": "Socioeconomic deprivation"
+    },
+    {
+      "subject": "Indikatoren"
+    },
+    {
+      "subject": "indicators"
+    },
+    {
+      "subject": "Kindergesundheit"
+    },
+    {
+      "subject": "Child health"
+    },
+    {
+      "subject": "Gesundheitsmonitoring"
+    },
+    {
+      "subject": "Public Health Surveillance"
+    },
+    {
+      "subject": "Gesundheitsberichterstattung"
+    },
+    {
+      "subject": "Health Reporting"
+    },
+    {
+      "subject": "AdiRaum"
+    },
+    {
+      "subject": "Dashboard"
+    },
+    {
+      "subject": "Germany"
+    }
+  ],
+  "custom_fields": {
+    "legacy:communities": [
+      "robertkochinstitut"
+    ]
+  }
+}
