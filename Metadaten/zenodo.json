@@ -1,0 +1,98 @@
+{
+  "title": "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen",
+  "description": "<p>Der Datensatz &quot;AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen&quot; des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.</p>\n",
+  "creators": [
+    {
+      "name": "Robert Koch-Institut",
+      "affiliation": "Robert Koch-Institut"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Kühnelt, Charlotte",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0009-0003-8582-055X"
+    },
+    {
+      "name": "Starker, Anne ",
+      "affiliation": "Robert Koch-Institut",
+      "type": "Researcher",
+      "orcid": "0000-0002-9218-9263"
+    },
+    {
+      "name": "Schienkiewitz, Anja ",
+      "affiliation": "Robert Koch-Institut",
+      "type": "ProjectLeader",
+      "orcid": "0000-0003-3821-9772"
+    }
+  ],
+  "keywords": [
+    "Open Data",
+    "Offene Daten",
+    "Adipositas",
+    "Körpergewicht",
+    "Öffentliche Berichterstattung über Gesundheitsdaten",
+    "Übergewicht",
+    "RKI",
+    "Deutschland",
+    "Obesity",
+    "Overweight",
+    "Body Weight",
+    "Public Reporting of Healthcare Data",
+    "Schuleingangsuntersuchung",
+    "Einschulungsuntersuchung",
+    "School entrance examination",
+    "Vorschulkinder",
+    "Preschool children",
+    "Einflussfaktoren",
+    "Influencing factors",
+    "Small-Area Analysis",
+    "kleinräumige Datenanalyse",
+    "sozioökonomische Deprivation",
+    "Socioeconomic deprivation",
+    "Indikatoren",
+    "indicators",
+    "Kindergesundheit",
+    "Child health",
+    "Gesundheitsmonitoring",
+    "Public Health Surveillance",
+    "Gesundheitsberichterstattung",
+    "Health Reporting",
+    "AdiRaum",
+    "Dashboard",
+    "Germany"
+  ],
+  "publication_date": "2025-11-12",
+  "version": "2025-11-12",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
+  "subjects": [],
+  "dates": [
+    {
+      "start": "2025-11-12T12:46:57+01:00",
+      "end": "2025-11-12T12:46:57+01:00",
+      "type": "Created",
+      "description": "Date when the published data was created"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isDescribedBy",
+      "identifier": "https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
+      "resource_type": "other"
+    }
+  ]
+}

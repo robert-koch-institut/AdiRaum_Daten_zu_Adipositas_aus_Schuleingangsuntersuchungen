@@ -1,0 +1,17 @@
+{
+  "name": "10.5281/zenodo.15095483",
+  "title": "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen",
+  "description": "Diese Datei gibt eine Übersicht über die im Datensatz enthaltenen Daten im Data Package Standard (https://datapackage.org). Der dokumentierte Datensatz ist auf den Plattformen Zenodo (https://doi.org/10.5281/zenodo.15095483) und Github (https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen) verfügbar.",
+  "homepage": "https://doi.org/10.5281/zenodo.15095483",
+  "resources": [
+    {
+      "name": "landkreise_adipositas_schuleingangsuntersuchungen",
+      "type": "table",
+      "path": "Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv",
+      "scheme": "file",
+      "format": "tsv",
+      "mediatype": "text/csv",
+      "schema": "Metadaten/schemas/tableschema_Landkreise_Adipositas_Schuleingangsuntersuchungen.json"
+    }
+  ]
+}
