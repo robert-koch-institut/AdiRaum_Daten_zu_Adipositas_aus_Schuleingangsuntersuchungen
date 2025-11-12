@@ -251,7 +251,7 @@ Der Datensatz "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsu
 Die im Datensatz bereitgestellten Daten sind, unter Bedingung der Namensnennung des Robert Koch-Instituts als Quelle, frei verfügbar. Das bedeutet, jede Person hat das Recht die Daten zu verarbeiten und zu verändern, Derivate des Datensatzes zu erstellen und sie für kommerzielle und nicht kommerzielle Zwecke zu nutzen. Weitere Informationen zur Lizenz finden sich in der [LICENSE](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/LICENSE) bzw. [LIZENZ](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/LIZENZ) Datei des Datensatzes.  
 <!-- FOOTER_END -->
 
+
 ## Danksagung  
 
-
-Für die Erhebung und Bereitstellung der Daten und der Untertützung des Projektes danken wir den Gesundheitsämtern bzw. den Kinder- und Jugendgesundheitsdiensten der Kreise und kreisfreien Städte in Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, im Saarland, Sachsen, Sachsen-Anhalt, und Schleswig-Holstein und Thüringen.
+Für die Erhebung und Bereitstellung der Daten und der Unterstützung des Projektes danken wir den Gesundheitsämtern bzw. den Kinder- und Jugendgesundheitsdiensten der Kreise, kreisfreien Städte und Bezirke in Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, im Saarland, Sachsen, Sachsen-Anhalt, und Schleswig-Holstein und Thüringen.
