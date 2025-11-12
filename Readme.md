@@ -143,7 +143,7 @@ Der Datensatz enthält Daten zu Übergewicht und Adipositas aus den SEU der am P
 
 Die Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen der Landkreise in den beteiligten Ländern sowie relevante kleinräumige Indikatoren sind im Hauptverzeichnis unter "Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv" abrufbar.  
 
-> [Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv](https://github.com/robert-koch-institut/COVID-19-Impfungen_in_Deutschland/blob/main/Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv)  
+> [Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv)  
 
 
 #### Variablen und Variablenausprägungen 
