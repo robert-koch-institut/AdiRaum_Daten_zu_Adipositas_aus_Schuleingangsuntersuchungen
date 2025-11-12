@@ -1,0 +1,665 @@
+{
+  "fields": [
+    {
+      "name": "Bundesland_Name",
+      "type": "string",
+      "description": "Bundesländer Deutschlands",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Baden-Württemberg",
+          "Bayern",
+          "Berlin",
+          "Brandenburg",
+          "Bremen",
+          "Saarland",
+          "Sachsen-Anhalt",
+          "Schleswig-Holstein"
+        ]
+      }
+    },
+    {
+      "name": "Landkreis_Name",
+      "type": "string",
+      "description": "Name des Landkreises bzw. der kreisfreien Stadt (inkl. Berliner Bezirke)",
+      "constraints": {
+        "required": true,
+        "enum": [
+          "Aichach-Friedberg",
+          "Alb-Donau-Kreis",
+          "Altmarkkreis Salzwedel",
+          "Altötting",
+          "Amberg-Sulzbach",
+          "Anhalt-Bitterfeld",
+          "Ansbach",
+          "Aschaffenburg",
+          "Aschaffenburg, Landkreis",
+          "Augsburg",
+          "Augsburg, Landkreis",
+          "Bad Kissingen",
+          "Bad Tölz-Wolfratshausen",
+          "Baden-Baden",
+          "Bamberg",
+          "Barnim",
+          "Bayreuth",
+          "Berchtesgadener Land",
+          "Berlin-Charlottenburg-Wilmersdorf",
+          "Berlin-Friedrichshain-Kreuzberg",
+          "Berlin-Lichtenberg",
+          "Berlin-Marzahn-Hellersdorf",
+          "Berlin-Mitte",
+          "Berlin-Neukölln",
+          "Berlin-Pankow",
+          "Berlin-Reinickendorf",
+          "Berlin-Spandau",
+          "Berlin-Steglitz-Zehlendorf",
+          "Berlin-Tempelhof-Schöneberg",
+          "Berlin-Treptow-Köpenick",
+          "Biberach",
+          "Bodenseekreis",
+          "Brandenburg an der Havel",
+          "Breisgau-Hochschwarzwald",
+          "Bremen",
+          "Bremerhaven",
+          "Burgenlandkreis",
+          "Böblingen",
+          "Börde",
+          "Calw",
+          "Cham",
+          "Coburg",
+          "Cottbus",
+          "Dachau",
+          "Dahme-Spreewald",
+          "Deggendorf",
+          "Dessau-Roßlau",
+          "Dillingen a.d. Donau",
+          "Dingolfing-Landau",
+          "Dithmarschen",
+          "Donau-Ries",
+          "Ebersberg",
+          "Eichstätt",
+          "Elbe-Elster",
+          "Emmendingen",
+          "Enzkreis",
+          "Erding",
+          "Erlangen-Höchstadt",
+          "Esslingen",
+          "Flensburg",
+          "Forchheim",
+          "Frankfurt (Oder)",
+          "Freiburg im Breisgau",
+          "Freising",
+          "Freudenstadt",
+          "Freyung-Grafenau",
+          "Fürstenfeldbruck",
+          "Fürth",
+          "Fürth, Landkreis",
+          "Garmisch-Partenkirchen",
+          "Göppingen",
+          "Günzburg",
+          "Halle (Saale)",
+          "Harz",
+          "Havelland",
+          "Haßberge",
+          "Heidelberg",
+          "Heidenheim",
+          "Heilbronn",
+          "Heilbronn, Landkreis",
+          "Herzogtum Lauenburg",
+          "Hof",
+          "Hohenlohekreis",
+          "Ingolstadt",
+          "Jerichower Land",
+          "Karlsruhe",
+          "Karlsruhe, Landkreis",
+          "Kelheim",
+          "Kiel",
+          "Kitzingen",
+          "Konstanz",
+          "Kronach",
+          "Kulmbach",
+          "Landsberg am Lech",
+          "Landshut",
+          "Lichtenfels",
+          "Lindau (Bodensee)",
+          "Ludwigsburg",
+          "Lörrach",
+          "Lübeck",
+          "Magdeburg",
+          "Main-Spessart",
+          "Main-Tauber-Kreis",
+          "Mannheim",
+          "Mansfeld-Südharz",
+          "Memmingen",
+          "Merzig-Wadern",
+          "Miesbach",
+          "Miltenberg",
+          "Märkisch-Oderland",
+          "Mühldorf a. Inn",
+          "München",
+          "München, Landkreis",
+          "Neckar-Odenwald-Kreis",
+          "Neu-Ulm",
+          "Neuburg-Schrobenhausen",
+          "Neumarkt i.d. Opf.",
+          "Neumünster",
+          "Neunkirchen",
+          "Neustadt a.d. Aisch-Bad Windsheim",
+          "Neustadt a.d. Waldnaab",
+          "Nordfriesland",
+          "Nürnberg",
+          "Nürnberger Land",
+          "Oberallgäu",
+          "Oberhavel",
+          "Oberspreewald-Lausitz",
+          "Oder-Spree",
+          "Ortenaukreis",
+          "Ostalbkreis",
+          "Ostallgäu",
+          "Ostholstein",
+          "Ostprignitz-Ruppin",
+          "Passau",
+          "Pfaffenhofen a.d. Ilm",
+          "Pforzheim",
+          "Pinneberg",
+          "Plön",
+          "Potsdam",
+          "Potsdam-Mittelmark",
+          "Prignitz",
+          "Rastatt",
+          "Ravensburg",
+          "Regen",
+          "Regensburg",
+          "Regionalverband Saarbrücken",
+          "Rems-Murr-Kreis",
+          "Rendsburg-Eckernförde",
+          "Reutlingen",
+          "Rhein-Neckar-Kreis",
+          "Rhön-Grabfeld",
+          "Rosenheim",
+          "Roth",
+          "Rottal-Inn",
+          "Rottweil",
+          "Saalekreis",
+          "Saarlouis",
+          "Saarpfalz-Kreis",
+          "Salzlandkreis",
+          "Schleswig-Flensburg",
+          "Schwandorf",
+          "Schwarzwald-Baar-Kreis",
+          "Schweinfurt",
+          "Schwäbisch Hall",
+          "Segeberg",
+          "Sigmaringen",
+          "Spree-Neiße",
+          "St. Wendel",
+          "Starnberg",
+          "Steinburg",
+          "Stendal",
+          "Stormarn",
+          "Straubing-Bogen",
+          "Stuttgart",
+          "Teltow-Fläming",
+          "Tirschenreuth",
+          "Traunstein",
+          "Tuttlingen",
+          "Tübingen",
+          "Uckermark",
+          "Ulm",
+          "Unterallgäu",
+          "Waldshut",
+          "Weilheim-Schongau",
+          "Weißenburg-Gunzenhausen",
+          "Wittenberg",
+          "Wunsiedel",
+          "Würzburg",
+          "Zollernalbkreis"
+        ]
+      }
+    },
+    {
+      "name": "Landkreis_ID",
+      "type": "string",
+      "description": "Identifikationsnummer des Landkreises basierend auf dem Amtlichen Gemeindeschlüssel zuzüglich der 12 Bezirke Berlins (11000001 bis 11000012)",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "enum": [
+          "1001",
+          "1002",
+          "1003",
+          "1004",
+          "10041",
+          "10042",
+          "10043",
+          "10044",
+          "10045",
+          "10046",
+          "1051",
+          "1053",
+          "1054",
+          "1055",
+          "1056",
+          "1057",
+          "1058",
+          "1059",
+          "1060",
+          "1061",
+          "1062",
+          "11000001",
+          "11000002",
+          "11000003",
+          "11000004",
+          "11000005",
+          "11000006",
+          "11000007",
+          "11000008",
+          "11000009",
+          "11000010",
+          "11000011",
+          "11000012",
+          "12051",
+          "12052",
+          "12053",
+          "12054",
+          "12060",
+          "12061",
+          "12062",
+          "12063",
+          "12064",
+          "12065",
+          "12066",
+          "12067",
+          "12068",
+          "12069",
+          "12070",
+          "12071",
+          "12072",
+          "12073",
+          "15001",
+          "15002",
+          "15003",
+          "15081",
+          "15082",
+          "15083",
+          "15084",
+          "15085",
+          "15086",
+          "15087",
+          "15088",
+          "15089",
+          "15090",
+          "15091",
+          "4011",
+          "4012",
+          "8111",
+          "8115",
+          "8116",
+          "8117",
+          "8118",
+          "8119",
+          "8121",
+          "8125",
+          "8126",
+          "8127",
+          "8128",
+          "8135",
+          "8136",
+          "8211",
+          "8212",
+          "8215",
+          "8216",
+          "8221",
+          "8222",
+          "8225",
+          "8226",
+          "8231",
+          "8235",
+          "8236",
+          "8237",
+          "8311",
+          "8315",
+          "8316",
+          "8317",
+          "8325",
+          "8326",
+          "8327",
+          "8335",
+          "8336",
+          "8337",
+          "8415",
+          "8416",
+          "8417",
+          "8421",
+          "8425",
+          "8426",
+          "8435",
+          "8436",
+          "8437",
+          "9161",
+          "9162",
+          "9171",
+          "9172",
+          "9173",
+          "9174",
+          "9175",
+          "9176",
+          "9177",
+          "9178",
+          "9179",
+          "9180",
+          "9181",
+          "9182",
+          "9183",
+          "9184",
+          "9185",
+          "9186",
+          "9188",
+          "9189",
+          "9190",
+          "9271",
+          "9272",
+          "9273",
+          "9276",
+          "9277",
+          "9279",
+          "9372",
+          "9373",
+          "9376",
+          "9377",
+          "9474",
+          "9476",
+          "9477",
+          "9478",
+          "9479",
+          "9563",
+          "9564",
+          "9573",
+          "9574",
+          "9575",
+          "9577",
+          "9672",
+          "9673",
+          "9674",
+          "9675",
+          "9676",
+          "9677",
+          "9761",
+          "9764",
+          "9771",
+          "9772",
+          "9773",
+          "9774",
+          "9775",
+          "9776",
+          "9778",
+          "9779"
+        ]
+      }
+    },
+    {
+      "name": "Einschulungsjahr",
+      "type": "integer",
+      "description": "Einschulungsjahrgang. Die verfügbaren Einschulungsjahrgänge, für welche die Länder Daten zur Verfügung stellten  ",
+      "constraints": {
+        "required": true,
+        "minimum": 2006,
+        "maximum": 2025
+      }
+    },
+    {
+      "name": "Geschlecht",
+      "type": "string",
+      "description": "Sex (biologisches Geschlecht). Ausprägung „divers“ wurde nicht in allen Ländern und somit nicht einheitlich bzw. vergleichbar erfasst.",
+      "missingValues": [
+        "Jahr nicht verfügbar",
+        "Daten des Kreises nicht übermittelt"
+      ],
+      "constraints": {
+        "enum": [
+          "Junge",
+          "Mädchen"
+        ]
+      }
+    },
+    {
+      "name": "Anzahl_Untersucht",
+      "type": "integer",
+      "description": "Anzahl untersuchter Kinder (mit vollständigen Daten zu Alter, Geschlecht, Körpergröße und Körpergewicht)",
+      "missingValues": [
+        "Altersgruppe nicht übermittelt",
+        "Daten des Kreises nicht übermittelt",
+        "Geheimhaltungsregel",
+        "Jahr nicht verfügbar"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Anzahl_Uebergewicht",
+      "type": "number",
+      "description": "Anzahl Kinder mit Übergewicht (>90. Perzentil nach Kromeyer Hauschild)  ",
+      "missingValues": [
+        "Altersgruppe nicht übermittelt",
+        "Daten des Kreises nicht übermittelt",
+        "Geheimhaltungsregel",
+        "Jahr nicht verfügbar",
+        "keine untersuchten Kinder"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Anzahl_Adipositas",
+      "type": "number",
+      "description": "Anzahl Kinder mit Adipositas (>97. Perzentil nach Kromeyer Hauschild) ",
+      "missingValues": [
+        "Altersgruppe nicht übermittelt",
+        "Daten des Kreises nicht übermittelt",
+        "Geheimhaltungsregel",
+        "Jahr nicht verfügbar",
+        "keine untersuchten Kinder"
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Alter",
+      "type": "string",
+      "description": "Alter der untersuchten Kinder",
+      "missingValues": [
+        "Jahr nicht verfügbar",
+        "Daten des Kreises nicht übermittelt"
+      ],
+      "constraints": {
+        "enum": [
+          "4 Jahre",
+          "5 Jahre",
+          "6 Jahre",
+          "7 Jahre"
+        ]
+      }
+    },
+    {
+      "name": "GISD",
+      "type": "string",
+      "description": "German Index of Socioeconomic deprivation. Kategorisierung basiert auf den drei Kategorien des GISD (https://www.doi.org/10.25646/10640). Daten dazu unter https://www.doi.org/10.5281/zenodo.6840303",
+      "missingValues": [
+        "geänderte Kreisstruktur",
+        "Jahr nicht verfügbar",
+        "Kontextfaktor nicht verfügbar"
+      ],
+      "constraints": {
+        "enum": [
+          "niedrig",
+          "mittel",
+          "hoch"
+        ]
+      }
+    },
+    {
+      "name": "Kreistyp",
+      "type": "string",
+      "description": "Siedlungsstruktureller Kreistyp (BBSR). Kategorisierung nach https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/deutschland/kreise/siedlungsstrukturelle-kreistypen/kreistypen.html ",
+      "missingValues": [
+        "Jahr nicht verfügbar",
+        "geänderte Kreisstruktur"
+      ],
+      "constraints": {
+        "enum": [
+          "dünn besiedelter ländlicher Kreis",
+          "kreisfreie Großstadt",
+          "ländlicher Kreis mit Verdichtungsansätzen",
+          "städtischer Kreis"
+        ]
+      }
+    },
+    {
+      "name": "Ganztagsbetreuung",
+      "type": "number",
+      "description": "Anteil der in Ganztagsbetreuung (> 7h/Tag) betreuten Kinder an den Kindern gleichen Alters in % (3-5 Jahre).",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 0,
+        "maximum": 100
+      }
+    },
+    {
+      "name": "Ganztagsbetreuung_Kategorie",
+      "type": "string",
+      "description": "Anteil der in Ganztagsbetreuung (> 7h/Tag) betreuten Kinder an den Kindern gleichen Alters in % (3-5 Jahre). Diese 5 Kategorien wurden bereits im Ländermonitor Frühkindliche Bildungssysteme verwendet https://www.laendermonitor.de/de/fokus-regionale-daten/kinder-und-eltern/betreuungsumfang-in-kitas-2 ",
+      "missingValues": [
+        "geänderte Kreisstruktur",
+        "Jahr nicht verfügbar",
+        "Kontextfaktor nicht verfügbar"
+      ],
+      "constraints": {
+        "enum": [
+          "< 20%",
+          "20 bis < 40%",
+          "40 bis < 60%",
+          "60 bis < 80%",
+          "≥ 80%"
+        ]
+      }
+    },
+    {
+      "name": "Ohne_Schulabschluss",
+      "type": "number",
+      "description": "Anteil Schulabgänger:innen ohne Hauptschulabschluss an Schulabgänger:innen allgemeinbildender Schulen",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 0,
+        "maximum": 100
+      }
+    },
+    {
+      "name": "Ohne_Schulabschluss_Kategorie",
+      "type": "string",
+      "description": "Anteil Schulabgänger:innen ohne Hauptschulabschluss an Schulabgänger:innen allgemeinbildender Schulen. Einteilung auf Grundlage des deutschlandweiten Medians in `viel` (Wert liegt über dem Median) oder `wenig` (Wert liegt unter dem Median)",
+      "missingValues": [
+        "geänderte Kreisstruktur",
+        "Jahr nicht verfügbar",
+        "Kontextfaktor nicht verfügbar"
+      ],
+      "constraints": {
+        "enum": [
+          "≤ 6%",
+          "> 6%"
+        ]
+      }
+    },
+    {
+      "name": "Vereinsmitgliedschaft",
+      "type": "number",
+      "description": "Anzahl Mitgliedschaften in Sportvereinen je 100 Kinder",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Vereinsmitgliedschaft_Kategorie",
+      "type": "string",
+      "description": "Anzahl Mitgliedschaften in Sportvereinen je 100 Kinder. Einteilung auf Grundlage des deutschlandweiten Medians in `viel` (Wert liegt über dem Median) oder `wenig` (Wert liegt unter dem Median)",
+      "missingValues": [
+        "geänderte Kreisstruktur",
+        "Jahr nicht verfügbar",
+        "Kontextfaktor nicht verfügbar"
+      ],
+      "constraints": {
+        "enum": [
+          "≤ 25",
+          "> 25"
+        ]
+      }
+    },
+    {
+      "name": "Bedarfsgemeinschaften",
+      "type": "number",
+      "description": "Anteil Kinder in SGB-II-Bedarfsgemeinschaften an der Altersgruppe in %",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 0,
+        "maximum": 100
+      }
+    },
+    {
+      "name": "Bedarfsgemeinschaften_Kategorie",
+      "type": "string",
+      "description": "Anteil Kinder in SGB-II-Bedarfsgemeinschaften an der Altersgruppe in %. Diese 5 Kategorien wurde bis 2021 im Deutschlandatlas verwendet https://www.deutschlandatlas.bund.de/DE/Karten/Wie-wir-lernen/181/_node.html ",
+      "missingValues": [
+        "geänderte Kreisstruktur",
+        "Jahr nicht verfügbar"
+      ],
+      "constraints": {
+        "enum": [
+          "< 5%",
+          "10 bis < 15%",
+          "15 bis < 20%",
+          "5 bis < 10%",
+          "≥ 20%"
+        ]
+      }
+    },
+    {
+      "name": "Erholungsflaeche",
+      "type": "number",
+      "description": "Sport-, Freizeit- und Erholungsfläche (ha) je 1.000 Kinder",
+      "missingValues": [
+        ""
+      ],
+      "constraints": {
+        "minimum": 0
+      }
+    },
+    {
+      "name": "Erholungsflaeche_Kategorie",
+      "type": "string",
+      "description": "Sport-, Freizeit- und Erholungsfläche (ha) je 1.000 Kinder. Einteilung auf Grundlage des deutschlandweiten Medians in `viel` (Wert liegt über dem Median) oder `wenig` (Wert liegt unter dem Median)",
+      "missingValues": [
+        "geänderte Kreisstruktur",
+        "Jahr nicht verfügbar",
+        "Kontextfaktor nicht verfügbar"
+      ],
+      "constraints": {
+        "enum": [
+          "> 82",
+          "≤ 82"
+        ]
+      }
+    }
+  ]
+}
