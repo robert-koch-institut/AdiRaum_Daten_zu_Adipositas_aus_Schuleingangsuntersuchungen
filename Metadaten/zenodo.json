@@ -1,6 +1,6 @@
 {
   "title": "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen",
-  "description": "<p>Der Datensatz &quot;AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen&quot; des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.</p>\n",
+  "description": "Der Datensatz \"AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen\" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.",
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -25,6 +25,46 @@
       "affiliation": "Robert Koch-Institut",
       "type": "ProjectLeader",
       "orcid": "0000-0003-3821-9772"
+    },
+    {
+      "name": "Landesgesundheitsamt Baden-Württemberg",
+      "affiliation": "Landesgesundheitsamt Baden-Württemberg",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit",
+      "affiliation": "Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (Berlin)",
+      "affiliation": "Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (Berlin)",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Ministerium für Gesundheit und Soziales (Brandenburg)",
+      "affiliation": "Ministerium für Gesundheit und Soziales (Brandenburg)",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)",
+      "affiliation": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)",
+      "affiliation": "Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Landesamt für Verbraucherschutz Sachsen-Anhalt",
+      "affiliation": "Landesamt für Verbraucherschutz Sachsen-Anhalt",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Ministerium für Justiz und Gesundheit des Landes Schleswig-Holstein",
+      "affiliation": "Ministerium für Justiz und Gesundheit des Landes Schleswig-Holstein",
+      "type": "DataCurator"
     }
   ],
   "keywords": [
