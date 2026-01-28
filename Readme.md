@@ -188,7 +188,7 @@ Die Datei [Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv](https://github
 Die Daten sind im Datensatz als .xlsx-Datei und Tab-separierte .tsv-Datei enthalten. Der verwendete Zeichensatz der .tsv-Datei ist UTF-8.  
 
 * Zeichensatz: UTF-8  
-* .tsv-Trennzeichen: Tab "\t"  
+* .tsv-Trennzeichen: Tab `\t`  
 
 <!-- FOOTER_START: {"lang": "de"} -->
 
@@ -200,7 +200,7 @@ Zur Erhöhung der Auffindbarkeit sind die bereitgestellten Daten mit Metadaten b
 
 > [Metadaten/](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/tree/main/Metadaten/) 
 
-Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter https://developers.zenodo.org/#representation nachlesbar.
+Versionierung und DOI-Vergabe erfolgt über [Zenodo.org](https://zenodo.org). Die für den Import in Zenodo bereitgestellten Metadaten sind in der [zenodo.json](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/Metadaten/zenodo.json) hinterlegt. Die Dokumentation der einzelnen Metadatenvariablen ist unter [https://developers.zenodo.org/#representation](https://developers.zenodo.org/#representation) nachlesbar.
  
 > [Metadaten/zenodo.json](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/Metadaten/zenodo.json)  
 
