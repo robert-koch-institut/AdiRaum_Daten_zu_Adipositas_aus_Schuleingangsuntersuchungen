@@ -411,7 +411,7 @@
     {
       "name": "Geschlecht",
       "type": "string",
-      "description": "Sex (biologisches Geschlecht). Ausprägung „divers“ wurde nicht in allen Ländern und somit nicht einheitlich bzw. vergleichbar erfasst.",
+      "description": "Sex (biologisches Geschlecht). Ausprägung \"divers\" wurde nicht in allen Ländern und somit nicht einheitlich bzw. vergleichbar erfasst.",
       "missingValues": [
         "Jahr nicht verfügbar",
         "Daten des Kreises nicht übermittelt"

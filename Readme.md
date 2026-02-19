@@ -14,17 +14,19 @@ Dokumentation
 <br> 
 
 **Beitragende**   
-[Charlotte Kühnelt](https://orcid.org/0009-0003-8582-055X)&sup1;, [Anne  Starker](https://orcid.org/0000-0002-9218-9263)&sup1;, [Anja  Schienkiewitz](https://orcid.org/0000-0003-3821-9772)&sup1;, [Landesgesundheitsamt Baden-Württemberg](https://www.gesundheitsamt-bw.de/), [Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit](https://www.lgl.bayern.de/), [Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (Berlin)](https://www.berlin.de/sen/wgp/), [Ministerium für Gesundheit und Soziales (Brandenburg)](https://mgs.brandenburg.de/mgs/de/), [Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)](https://www.gesundheit.bremen.de/), [Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)](https://www.saarland.de/masfg/DE/home), [Landesamt für Verbraucherschutz Sachsen-Anhalt](https://verbraucherschutz.sachsen-anhalt.de/), & [Ministerium für Justiz und Gesundheit des Landes Schleswig-Holstein](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/II/ii_node)
+[Charlotte Kühnelt](https://orcid.org/0009-0003-8582-055X)&sup1;, [Anne  Starker](https://orcid.org/0000-0002-9218-9263)&sup1;, [Anja  Schienkiewitz](https://orcid.org/0000-0003-3821-9772)&sup1;, [Landesgesundheitsamt Baden-Württemberg](https://www.gesundheitsamt-bw.de/), [Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit](https://www.lgl.bayern.de/), [Senatsverwaltung für Wissenschaft, Gesundheit und Pflege (Berlin)](https://www.berlin.de/sen/wgp/), [Ministerium für Gesundheit und Soziales (Brandenburg)](https://mgs.brandenburg.de/mgs/de/), [Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)](https://www.gesundheit.bremen.de/), [Hessisches Landesamt für Gesundheit und Pflege](https://hlfgp.hessen.de/), [Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)](https://www.saarland.de/masfg/DE/home), [Landesamt für Verbraucherschutz Sachsen-Anhalt](https://verbraucherschutz.sachsen-anhalt.de/), & [Ministerium für Justiz und Gesundheit des Landes Schleswig-Holstein](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/II/ii_node)
 
 &emsp;&emsp;&sup1; [Robert Koch-Institut](https://www.rki.de/) | [Fachgebiet 27](https://www.rki.de/fg27)
 
 <br> 
 
 **Zitieren**  
+<!-- CITATION_START: {"citation_style": "apa"} -->  
 Robert Koch-Institut. (2025). AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15095485](https://doi.org/10.5281/zenodo.15095485)
+<!-- CITATION_END -->
+
 
 <br>
-
 
 **Zusammenfassung**    
 Der Datensatz "AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.
@@ -151,6 +153,7 @@ Die Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen der Lan
 <!-- DATA_SCHEMA_SPECIFICATION_START: {"id": "Landkreise_Adipositas_Schuleingangsuntersuchungen", "lang": "de"} -->
 
 Die Datei [Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv) enthält die in der folgenden Tabelle abgebildeten Variablen und deren Ausprägungen. Ein maschinenlesbares Datenschema ist im [Data Package Standard](https://datapackage.org/) in [tableschema_Landkreise_Adipositas_Schuleingangsuntersuchungen.json](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/Metadaten/schemas/tableschema_Landkreise_Adipositas_Schuleingangsuntersuchungen.json) hinterlegt:
+
 > [tableschema_Landkreise_Adipositas_Schuleingangsuntersuchungen.json](https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen/blob/main/Metadaten/schemas/tableschema_Landkreise_Adipositas_Schuleingangsuntersuchungen.json)
 
 <!-- DATA_SCHEMA_TABLE_START -->
@@ -160,7 +163,7 @@ Die Datei [Landkreise_Adipositas_Schuleingangsuntersuchungen.tsv](https://github
 | Landkreis_Name                      | string  | Werte:<br>`Aichach-Friedberg`, `Alb-Donau-Kreis`, `Altmarkkreis Salzwedel`, `Altötting`, `Amberg-Sulzbach`, `Anhalt-Bitterfeld`, `Ansbach`, …                                                                   | Name des Landkreises bzw. der kreisfreien Stadt (inkl. Berliner Bezirke)                                                                                                                                                                                                                                                                                                                                             |
 | Landkreis_ID                        | string  | Werte:<br>`1001`, `1002`, `1003`, `1004`, `10041`, `10042`, `10043`, …<br>Fehlende Werte:<br>leeres Feld                                                                                                        | Identifikationsnummer des Landkreises basierend auf dem Amtlichen Gemeindeschlüssel zuzüglich der 12 Bezirke Berlins (11000001 bis 11000012)                                                                                                                                                                                                                                                                         |
 | Einschulungsjahr                    | integer | Werte: `2006` - `2025`                                                                                                                                                                                          | Einschulungsjahrgang. Die verfügbaren Einschulungsjahrgänge, für welche die Länder Daten zur Verfügung stellten                                                                                                                                                                                                                                                                                                      |
-| Geschlecht                          | string  | Werte:<br>`Junge`, `Mädchen`<br>Fehlende Werte:<br>`Jahr nicht verfügbar`, `Daten des Kreises nicht übermittelt`                                                                                                | Sex (biologisches Geschlecht). Ausprägung „divers“ wurde nicht in allen Ländern und somit nicht einheitlich bzw. vergleichbar erfasst.                                                                                                                                                                                                                                                                               |
+| Geschlecht                          | string  | Werte:<br>`Junge`, `Mädchen`<br>Fehlende Werte:<br>`Jahr nicht verfügbar`, `Daten des Kreises nicht übermittelt`                                                                                                | Sex (biologisches Geschlecht). Ausprägung "divers" wurde nicht in allen Ländern und somit nicht einheitlich bzw. vergleichbar erfasst.                                                                                                                                                                                                                                                                               |
 | Anzahl_Untersucht                   | integer | Werte: `≥0`<br>Fehlende Werte:<br>`Altersgruppe nicht übermittelt`, `Daten des Kreises nicht übermittelt`, `Geheimhaltungsregel`, `Jahr nicht verfügbar`                                                        | Anzahl untersuchter Kinder (mit vollständigen Daten zu Alter, Geschlecht, Körpergröße und Körpergewicht)                                                                                                                                                                                                                                                                                                             |
 | Anzahl_Uebergewicht                 | number  | Werte: `≥0`<br>Fehlende Werte:<br>`Altersgruppe nicht übermittelt`, `Daten des Kreises nicht übermittelt`, `Geheimhaltungsregel`, `Jahr nicht verfügbar`, `keine untersuchten Kinder`                           | Anzahl Kinder mit Übergewicht (>90. Perzentil nach Kromeyer Hauschild)                                                                                                                                                                                                                                                                                                                                               |
 | Anzahl_Adipositas                   | number  | Werte: `≥0`<br>Fehlende Werte:<br>`Altersgruppe nicht übermittelt`, `Daten des Kreises nicht übermittelt`, `Geheimhaltungsregel`, `Jahr nicht verfügbar`, `keine untersuchten Kinder`                           | Anzahl Kinder mit Adipositas (>97. Perzentil nach Kromeyer Hauschild)                                                                                                                                                                                                                                                                                                                                                |
@@ -191,8 +194,6 @@ Die Daten sind im Datensatz als .xlsx-Datei und Tab-separierte .tsv-Datei enthal
 * .tsv-Trennzeichen: Tab `\t`  
 
 <!-- FOOTER_START: {"lang": "de"} -->
-
-
 
 ### Metadaten  
 
@@ -237,13 +238,13 @@ Für tabellarische Daten definieren wir zusätzlich ein [Table Schema](https://d
 
 Offene Forschungsdaten des RKI werden auf [Zenodo.org](http://Zenodo.org/), [GitHub.com](http://GitHub.com/), [OpenCoDE](https://gitlab.opencode.de) und [Edoc.rki.de](http://Edoc.rki.de/) bereitgestellt:  
 
-- https://zenodo.org/communities/robertkochinstitut  
-- https://github.com/robert-koch-institut  
-- https://gitlab.opencode.de/robert-koch-institut  
-- https://edoc.rki.de/  
+- [https://zenodo.org/communities/robertkochinstitut](https://zenodo.org/communities/robertkochinstitut)  
+- [https://github.com/robert-koch-institut](https://github.com/robert-koch-institut)  
+- [https://gitlab.opencode.de/robert-koch-institut](https://gitlab.opencode.de/robert-koch-institut)  
+- [https://edoc.rki.de/](https://edoc.rki.de/) 
 
 
- 
+
 ### Lizenz  
 
 Der Datensatz "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen" ist lizenziert unter der [Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de).  
