@@ -4,6 +4,9 @@
       "name": "Bundesland_Name",
       "type": "string",
       "description": "Bundesländer Deutschlands",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "enum": [
@@ -12,6 +15,7 @@
           "Berlin",
           "Brandenburg",
           "Bremen",
+          "Hessen",
           "Saarland",
           "Sachsen-Anhalt",
           "Schleswig-Holstein"
@@ -22,6 +26,9 @@
       "name": "Landkreis_Name",
       "type": "string",
       "description": "Name des Landkreises bzw. der kreisfreien Stadt (inkl. Berliner Bezirke)",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "enum": [
@@ -43,6 +50,7 @@
           "Barnim",
           "Bayreuth",
           "Berchtesgadener Land",
+          "Bergstraße",
           "Berlin-Charlottenburg-Wilmersdorf",
           "Berlin-Friedrichshain-Kreuzberg",
           "Berlin-Lichtenberg",
@@ -70,6 +78,8 @@
           "Cottbus",
           "Dachau",
           "Dahme-Spreewald",
+          "Darmstadt",
+          "Darmstadt-Dieburg",
           "Deggendorf",
           "Dessau-Roßlau",
           "Dillingen a.d. Donau",
@@ -87,14 +97,18 @@
           "Flensburg",
           "Forchheim",
           "Frankfurt (Oder)",
+          "Frankfurt am Main",
           "Freiburg im Breisgau",
           "Freising",
           "Freudenstadt",
           "Freyung-Grafenau",
+          "Fulda",
           "Fürstenfeldbruck",
           "Fürth",
           "Fürth, Landkreis",
           "Garmisch-Partenkirchen",
+          "Gießen",
+          "Groß-Gerau",
           "Göppingen",
           "Günzburg",
           "Halle (Saale)",
@@ -105,31 +119,40 @@
           "Heidenheim",
           "Heilbronn",
           "Heilbronn, Landkreis",
+          "Hersfeld-Rotenburg",
           "Herzogtum Lauenburg",
+          "Hochtaunuskreis",
           "Hof",
           "Hohenlohekreis",
           "Ingolstadt",
           "Jerichower Land",
           "Karlsruhe",
           "Karlsruhe, Landkreis",
+          "Kassel",
+          "Kassel, Landkreis",
           "Kelheim",
           "Kiel",
           "Kitzingen",
           "Konstanz",
           "Kronach",
           "Kulmbach",
+          "Lahn-Dill-Kreis",
           "Landsberg am Lech",
           "Landshut",
           "Lichtenfels",
+          "Limburg-Weilburg",
           "Lindau (Bodensee)",
           "Ludwigsburg",
           "Lörrach",
           "Lübeck",
           "Magdeburg",
+          "Main-Kinzig-Kreis",
           "Main-Spessart",
           "Main-Tauber-Kreis",
+          "Main-Taunus-Kreis",
           "Mannheim",
           "Mansfeld-Südharz",
+          "Marburg-Biedenkopf",
           "Memmingen",
           "Merzig-Wadern",
           "Miesbach",
@@ -152,7 +175,10 @@
           "Oberallgäu",
           "Oberhavel",
           "Oberspreewald-Lausitz",
+          "Odenwaldkreis",
           "Oder-Spree",
+          "Offenbach",
+          "Offenbach, Landkreis",
           "Ortenaukreis",
           "Ostalbkreis",
           "Ostallgäu",
@@ -175,6 +201,7 @@
           "Rendsburg-Eckernförde",
           "Reutlingen",
           "Rhein-Neckar-Kreis",
+          "Rheingau-Taunus-Kreis",
           "Rhön-Grabfeld",
           "Rosenheim",
           "Roth",
@@ -185,6 +212,7 @@
           "Saarpfalz-Kreis",
           "Salzlandkreis",
           "Schleswig-Flensburg",
+          "Schwalm-Eder-Kreis",
           "Schwandorf",
           "Schwarzwald-Baar-Kreis",
           "Schweinfurt",
@@ -207,9 +235,14 @@
           "Uckermark",
           "Ulm",
           "Unterallgäu",
+          "Vogelsbergkreis",
+          "Waldeck-Frankenberg",
           "Waldshut",
           "Weilheim-Schongau",
           "Weißenburg-Gunzenhausen",
+          "Werra-Meißner-Kreis",
+          "Wetteraukreis",
+          "Wiesbaden",
           "Wittenberg",
           "Wunsiedel",
           "Würzburg",
@@ -293,6 +326,32 @@
           "15091",
           "4011",
           "4012",
+          "6411",
+          "6412",
+          "6413",
+          "6414",
+          "6431",
+          "6432",
+          "6433",
+          "6434",
+          "6435",
+          "6436",
+          "6437",
+          "6438",
+          "6439",
+          "6440",
+          "6531",
+          "6532",
+          "6533",
+          "6534",
+          "6535",
+          "6611",
+          "6631",
+          "6632",
+          "6633",
+          "6634",
+          "6635",
+          "6636",
           "8111",
           "8115",
           "8116",
@@ -402,6 +461,9 @@
       "name": "Einschulungsjahr",
       "type": "integer",
       "description": "Einschulungsjahrgang. Die verfügbaren Einschulungsjahrgänge, für welche die Länder Daten zur Verfügung stellten  ",
+      "missingValues": [
+        ""
+      ],
       "constraints": {
         "required": true,
         "minimum": 2006,
@@ -413,6 +475,7 @@
       "type": "string",
       "description": "Sex (biologisches Geschlecht). Ausprägung \"divers\" wurde nicht in allen Ländern und somit nicht einheitlich bzw. vergleichbar erfasst.",
       "missingValues": [
+        "",
         "Jahr nicht verfügbar",
         "Daten des Kreises nicht übermittelt"
       ],
@@ -428,6 +491,7 @@
       "type": "integer",
       "description": "Anzahl untersuchter Kinder (mit vollständigen Daten zu Alter, Geschlecht, Körpergröße und Körpergewicht)",
       "missingValues": [
+        "",
         "Altersgruppe nicht übermittelt",
         "Daten des Kreises nicht übermittelt",
         "Geheimhaltungsregel",
@@ -442,6 +506,7 @@
       "type": "number",
       "description": "Anzahl Kinder mit Übergewicht (>90. Perzentil nach Kromeyer Hauschild)  ",
       "missingValues": [
+        "",
         "Altersgruppe nicht übermittelt",
         "Daten des Kreises nicht übermittelt",
         "Geheimhaltungsregel",
@@ -457,6 +522,7 @@
       "type": "number",
       "description": "Anzahl Kinder mit Adipositas (>97. Perzentil nach Kromeyer Hauschild) ",
       "missingValues": [
+        "",
         "Altersgruppe nicht übermittelt",
         "Daten des Kreises nicht übermittelt",
         "Geheimhaltungsregel",
@@ -472,6 +538,7 @@
       "type": "string",
       "description": "Alter der untersuchten Kinder",
       "missingValues": [
+        "",
         "Jahr nicht verfügbar",
         "Daten des Kreises nicht übermittelt"
       ],
@@ -489,6 +556,7 @@
       "type": "string",
       "description": "German Index of Socioeconomic deprivation. Kategorisierung basiert auf den drei Kategorien des GISD (https://www.doi.org/10.25646/10640). Daten dazu unter https://www.doi.org/10.5281/zenodo.6840303",
       "missingValues": [
+        "",
         "geänderte Kreisstruktur",
         "Jahr nicht verfügbar",
         "Kontextfaktor nicht verfügbar"
@@ -506,6 +574,7 @@
       "type": "string",
       "description": "Siedlungsstruktureller Kreistyp (BBSR). Kategorisierung nach https://www.bbsr.bund.de/BBSR/DE/forschung/raumbeobachtung/Raumabgrenzungen/deutschland/kreise/siedlungsstrukturelle-kreistypen/kreistypen.html ",
       "missingValues": [
+        "",
         "Jahr nicht verfügbar",
         "geänderte Kreisstruktur"
       ],
@@ -535,6 +604,7 @@
       "type": "string",
       "description": "Anteil der in Ganztagsbetreuung (> 7h/Tag) betreuten Kinder an den Kindern gleichen Alters in % (3-5 Jahre). Diese 5 Kategorien wurden bereits im Ländermonitor Frühkindliche Bildungssysteme verwendet https://www.laendermonitor.de/de/fokus-regionale-daten/kinder-und-eltern/betreuungsumfang-in-kitas-2 ",
       "missingValues": [
+        "",
         "geänderte Kreisstruktur",
         "Jahr nicht verfügbar",
         "Kontextfaktor nicht verfügbar"
@@ -566,6 +636,7 @@
       "type": "string",
       "description": "Anteil Schulabgänger:innen ohne Hauptschulabschluss an Schulabgänger:innen allgemeinbildender Schulen. Einteilung auf Grundlage des deutschlandweiten Medians in `viel` (Wert liegt über dem Median) oder `wenig` (Wert liegt unter dem Median)",
       "missingValues": [
+        "",
         "geänderte Kreisstruktur",
         "Jahr nicht verfügbar",
         "Kontextfaktor nicht verfügbar"
@@ -593,6 +664,7 @@
       "type": "string",
       "description": "Anzahl Mitgliedschaften in Sportvereinen je 100 Kinder. Einteilung auf Grundlage des deutschlandweiten Medians in `viel` (Wert liegt über dem Median) oder `wenig` (Wert liegt unter dem Median)",
       "missingValues": [
+        "",
         "geänderte Kreisstruktur",
         "Jahr nicht verfügbar",
         "Kontextfaktor nicht verfügbar"
@@ -621,6 +693,7 @@
       "type": "string",
       "description": "Anteil Kinder in SGB-II-Bedarfsgemeinschaften an der Altersgruppe in %. Diese 5 Kategorien wurde bis 2021 im Deutschlandatlas verwendet https://www.deutschlandatlas.bund.de/DE/Karten/Wie-wir-lernen/181/_node.html ",
       "missingValues": [
+        "",
         "geänderte Kreisstruktur",
         "Jahr nicht verfügbar"
       ],
@@ -650,6 +723,7 @@
       "type": "string",
       "description": "Sport-, Freizeit- und Erholungsfläche (ha) je 1.000 Kinder. Einteilung auf Grundlage des deutschlandweiten Medians in `viel` (Wert liegt über dem Median) oder `wenig` (Wert liegt unter dem Median)",
       "missingValues": [
+        "",
         "geänderte Kreisstruktur",
         "Jahr nicht verfügbar",
         "Kontextfaktor nicht verfügbar"
@@ -661,5 +735,8 @@
         ]
       }
     }
+  ],
+  "missingValues": [
+    ""
   ]
 }
