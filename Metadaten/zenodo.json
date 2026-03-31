@@ -1,6 +1,15 @@
 {
   "title": "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen",
-  "description": "Der Datensatz \"AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen\" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.",
+  "description": "<p>Der Datensatz \"AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen\" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.</p>",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "language": "deu",
+  "communities": [
+    {
+      "identifier": "robertkochinstitut"
+    }
+  ],
   "creators": [
     {
       "name": "Robert Koch-Institut",
@@ -49,6 +58,11 @@
     {
       "name": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)",
       "affiliation": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)",
+      "type": "DataCurator"
+    },
+    {
+      "name": "Hessisches Landesamt für Gesundheit und Pflege",
+      "affiliation": "Hessisches Landesamt für Gesundheit und Pflege",
       "type": "DataCurator"
     },
     {
@@ -103,36 +117,27 @@
     "Dashboard",
     "Germany"
   ],
-  "publication_date": "2025-11-12",
-  "version": "2025-11-12",
-  "upload_type": "dataset",
-  "access_right": "open",
-  "license": "CC-BY-4.0",
-  "language": "deu",
-  "communities": [
-    {
-      "identifier": "robertkochinstitut"
-    }
-  ],
   "subjects": [],
-  "dates": [
-    {
-      "start": "2025-11-12T12:46:57+01:00",
-      "end": "2025-11-12T12:46:57+01:00",
-      "type": "Created",
-      "description": "Date when the published data was created"
-    }
-  ],
+  "publication_date": "2026-03-31",
+  "version": "2024-09-15",
   "related_identifiers": [
     {
-      "relation": "isSupplementTo",
       "identifier": "https://github.com/robert-koch-institut/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
+      "relation": "isSupplementTo",
       "resource_type": "dataset"
     },
     {
-      "relation": "isDescribedBy",
       "identifier": "https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
+      "relation": "isDescribedBy",
       "resource_type": "other"
+    }
+  ],
+  "dates": [
+    {
+      "start": "2024-09-15T00:00:00+02:00",
+      "end": "2024-09-15T00:00:00+02:00",
+      "type": "Created",
+      "description": "Date when the published data was created"
     }
   ]
 }

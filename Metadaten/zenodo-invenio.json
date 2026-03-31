@@ -1,10 +1,10 @@
 {
   "title": "AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen",
-  "description": "Der Datensatz \"AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen\" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.",
+  "description": "<p>Der Datensatz \"AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen\" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.</p>",
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2025-11-12",
+  "publication_date": "2026-03-31",
   "creators": [
     {
       "person_or_org": {
@@ -134,6 +134,15 @@
     {
       "person_or_org": {
         "type": "organizational",
+        "name": "Hessisches Landesamt für Gesundheit und Pflege"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
         "name": "Ministerium für Arbeit, Soziales, Frauen und Gesundheit (Saarland)"
       },
       "role": {
@@ -160,7 +169,7 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2025-11-12",
+  "version": "2026-03-31",
   "dates": [
     {
       "date": "2024-09-15T00:00:00+02:00",

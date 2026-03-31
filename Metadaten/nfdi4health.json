@@ -20,7 +20,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.15095485",
+        "identifier": "10.5281/zenodo.19352790",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -62,7 +62,8 @@
         "label": "RKI"
       },
       {
-        "label": "Deutschland"
+        "label": "Deutschland",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       },
       {
         "label": "Obesity",
@@ -155,7 +156,8 @@
         "code": "http://id.nlm.nih.gov/mesh/D000095489"
       },
       {
-        "label": "Germany"
+        "label": "Germany",
+        "code": "http://id.nlm.nih.gov/mesh/D005858"
       }
     ],
     "languages": [
@@ -171,7 +173,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2025-11-12"
+      "version": "2026-03-31"
     },
     "webpage": "https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
     "contributors": [
@@ -325,6 +327,18 @@
         ],
         "organisational": {
           "name": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Hessisches Landesamt für Gesundheit und Pflege"
+          }
+        ],
+        "organisational": {
+          "name": "Hessisches Landesamt für Gesundheit und Pflege",
           "type": "Data curator"
         }
       },

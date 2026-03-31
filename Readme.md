@@ -22,7 +22,7 @@ Dokumentation
 
 **Zitieren**  
 <!-- CITATION_START: {"citation_style": "apa", "markdown_style": "plain"} -->
-Robert Koch-Institut. (2025). AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15095485](https://doi.org/10.5281/zenodo.15095485)
+Robert Koch-Institut. (2026). AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.19352790](https://doi.org/10.5281/zenodo.19352790)
 <!-- CITATION_END -->
 
 
