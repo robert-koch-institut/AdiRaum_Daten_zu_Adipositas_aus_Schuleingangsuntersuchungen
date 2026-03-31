@@ -51,18 +51,18 @@ Der Datensatz "AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingang
 
 Adipositas ist bereits im Kindesalter mit einem erhöhten Risiko für Folgeerkrankungen verbunden. Als beeinflussbare Gesundheitsrisiken spielen Übergewicht und Adipositas daher eine zentrale Rolle im Gesundheitsmonitoring.  
 
-Eine potenziell wertvolle  Quelle von kleinräumigen Daten zu Übergewicht und Adipositas im Vorschulalter stellen Schuleingangsuntersuchungen (SEU) dar. Diese sind deutschlandweit verpflichtend und die Daten liegen auf Kreisebene vor.   
+Eine potenziell wertvolle Quelle von kleinräumigen Daten zu Übergewicht und Adipositas im Vorschulalter stellen Schuleingangsuntersuchungen (SEU) dar. Die Teilnahme an dieser Untersuchung ist deutschlandweit verpflichtend und die erhobenen Daten liegen auf Kreisebene vor.   
 
-Im Pilotprojekt AdiRaum wurde die Nutzbarkeit von SEU-Daten zu Übergewicht und Adipositas für das bundesweite Gesundheitsmonitoring geprüft und die Daten in einem Dashboard visualisiert:
+In den Projekten AdiRaum und AdiRaum 2.0 wurde in enger Zusammenarbeit mit der Gesundheitsberichterstattung der Länder die Nutzbarkeit von SEU-Daten für das bundesweite Gesundheitsmonitoring geprüft. SEU-Daten der Länder zu Übergewicht und Adipositas wurden zusammengeführt und in einem Dashboard visualisiert:
 
 > [AdiRaum-Dashboard](https://public.data.rki.de/t/public/views/AdiRaum_Dashboard/Dashboard) 
 
-Details finden sich in Kühnelt C, Starker A, Varnaccia G, Schienkiewitz A (2023) Schuleingangsuntersuchungen als kleinräumige Datenquelle für ein Monitoring der Kindergesundheit am Beispiel Adipositas. J Health Monit 8(2): 6–20. DOI [10.25646/11297](https://doi.org/10.25646/11297)  
+Details zum Pilotprojekt finden sich in Kühnelt C, Starker A, Varnaccia G, Schienkiewitz A (2023) Schuleingangsuntersuchungen als kleinräumige Datenquelle für ein Monitoring der Kindergesundheit am Beispiel Adipositas. J Health Monit 8(2): 6–20. DOI [10.25646/11297](https://doi.org/10.25646/11297)  
 
 ### Administrative und organisatorische Angaben  
 Das Pilotprojekt AdiRaum ("Erschließung kleinräumig aussagekräftiger Daten aus den Schuleingangsuntersuchungen für das bundesweite Gesundheitsmonitoring am Beispiel der Übergewichts- und Adipositasprävalenzen") wurde im Zeitraum 01.05.2022 bis 31.12.2022 durchgeführt und aus Sonderforschungsmitteln des Robert Koch-Instituts finanziert.  
 
-Das Nachfolgeprojekt [AdiRaum 2.0](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/Studien/adi_raum_inhalt.html) wurde für den Zeitraum 01.12.2023 bis 14.02.2026 vom [Bundesministerium für Gesundheit (BMG)](https://www.bundesgesundheitsministerium.de/) gefördert (Förderkennzeichen ZMII2-2523KIG913).  
+Das Nachfolgeprojekt [AdiRaum 2.0](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/Studien/adi_raum_inhalt.html) wird für den Zeitraum 01.12.2023 bis 28.02.2027 vom [Bundesministerium für Gesundheit (BMG)](https://www.bundesgesundheitsministerium.de/) gefördert (Förderkennzeichen ZMII2-2523KIG913).  
 
 Die Projekte wurden in Zusammenarbeit mit den Landesgesundheitsämtern oder vergleichbaren Institutionen durchgeführt. Vertreter:innen der Gesundheitsberichterstattung der folgenden Länder waren aktiv an der Projektgestaltung und den Projektergebnissen beteiligt.
 
@@ -96,9 +96,9 @@ Der Datensatz enthält Daten aus Schuleingangsuntersuchungen und Daten zu gesund
 
 ### 1. Daten aus den Schuleingangsuntersuchungen (SEU)
 
-Die Teilnahme an den SEU ist für Kinder vor der Einschulung verpflichtend. Aufgrund der föderalen Strukturen bilden die Landesgesetze, u.a. die Schulgesetze, die gesetzliche Grundlage. In der Regel werden die SEU vom Kinder- und Jugendgesundheitsdienst (KJGD) des öffentlichen Gesundheitsdienstes (ÖGD) durchgeführt. Ihr primäres Ziel liegt in der Einschätzung des Entwicklungs- und Gesundheitszustandes und schulrelevanter Stärken und Schwächen  und der Feststellung von Förderbedarfen vor dem Schuleintritt. Unter anderem erfolgt eine standardisierte körperlich-medizinische Untersuchung, in der Körpergröße und -gewicht gemessen werden.  
+Die Teilnahme an den SEU ist für Kinder vor der Einschulung verpflichtend. Aufgrund der föderalen Strukturen bilden die Landesgesetze (u.a. die Schulgesetze) die gesetzliche Grundlage für die Durchführung der SEU. In der Regel werden die SEU vom Kinder- und Jugendgesundheitsdienst (KJGD) des öffentlichen Gesundheitsdienstes (ÖGD) durchgeführt. Ihr primäres Ziel liegt in der Einschätzung des Entwicklungs- und Gesundheitszustandes und schulrelevanter Stärken und Schwächen und der Feststellung möglicher Förderbedarfe vor dem Schuleintritt. Unter anderem erfolgt eine standardisierte körperlich-medizinische Untersuchung, in der Körpergröße und -gewicht gemessen werden.  
 
-Mithilfe von Angaben zu Körpergröße und -gewicht, Alter und Geschlecht wird der BMI und daraus die Anzahl der Kinder mit Übergewicht (BMI-Perzentile > P90 nach Kromeyer-Hauschild) bzw. Adipositas (BMI-Perzentile > P97) bestimmt. 
+Mithilfe von Angaben zu Körpergröße und -gewicht, Alter und Geschlecht wird der BMI und daraus nach Kromeyer-Hauschild et al. die Anzahl der Kinder mit Übergewicht (BMI-Perzentile > P90) bzw. Adipositas (BMI-Perzentile > P97) bestimmt. 
 
 Im Rahmen der Projekte wurden dem RKI für die Kreise, kreisfreien Städte bzw. Bezirke (`Landkreis_Name`, `Kreisschlüssel`) der teilnehmenden Länder (`Bundesland_Name`) für die verfügbaren Einschulungsjahrgänge
 
@@ -108,10 +108,11 @@ Im Rahmen der Projekte wurden dem RKI für die Kreise, kreisfreien Städte bzw. 
 
 differenziert nach Alter (4-7 Jahre, `Alter`) und Geschlecht (`Geschlecht`) übermittelt.  
 
-Daraus wurden je Kreis und Einschulungsjahrgang  die Übergewichts- und Adipositasprävalenzen je Altersgruppe und Geschlecht bestimmt. 
+Daraus wurden je Kreis und Einschulungsjahrgang die Übergewichts- und Adipositasprävalenzen je Altersgruppe und Geschlecht bestimmt. 
 
 
-**Hinweis Geheimhaltungsregeln der Länder:** Für geringe Fallzahlen (größer 0) wurde unter Berücksichtigung der Geheimhaltungsregeln der Länder (z.B. ≤ 5) der Mittelpunkt imputiert.  
+> [!Note]
+> **Hinweis Geheimhaltungsregeln der Länder:** Für geringe Fallzahlen (größer 0) wurde unter Berücksichtigung der Geheimhaltungsregeln der Länder (z.B. ≤ 5) der Mittelpunkt imputiert.  
 
 ### 2. Daten zu gesundheitsrelevanten Risiko- und Schutzfaktoren
 Die Daten aus den SEU wurden mit Indikatoren aus verschiedenen Datenquellen ergänzt. Es handelt sich dabei zum einen um Risiko- und Schutzfaktoren für Adipositas im Kindesalter, die im Rahmen einer systematischen Literaturrecherche im [AdiMon-Projekt](https://www.rki.de/DE/Themen/Nichtuebertragbare-Krankheiten/Studien-und-Surveillance/Studien/Adipositas-Monitoring/adi_mon_inhalt.html) ("Bevölkerungsweites Monitoring adipositasrelevanter Einflussfaktoren im Kindes- und Jugendalter") identifiziert und in Abstimmung mit den an AdiRaum teilnehmenden Ländern ausgewählt wurden.
@@ -128,12 +129,13 @@ Es werden die folgenden Indikatoren dargestellt:
 - Betreuungsumfang (`Ganztagsbetreuung`): Dieser Indikator stammt aus der Statistik der Kinder- und Jugendhilfe  
 - Verfügbarkeit von Bewegungsräumen im Landkreis (`Erholungsflaeche`): Dieser Indikator  stammt von den Statistischen Ämtern der Länder und des Bundes  
 
-Vorerst werden nur die Indikatoren `Kreistyp`, `GISD` und `Bedarfsgemeinschaften` auf dem Dashboard visualisiert.
+> [!Note]
+> **Hinweis:** Im Dashboard werden vorerst nur die Indikatoren `Kreistyp`, `GISD` und `Bedarfsgemeinschaften` visualisiert.
 
 
 ## Aufbau und Inhalt des Datensatzes
 
-Der Datensatz enthält Daten zu Übergewicht und Adipositas aus den SEU der am Projekt beteiligten Bundesländer und die in der Datenverarbeitung unterstützenden Kontextmaterialien. Im Datensatz enthalten sind:  
+Der Datensatz enthält Daten zu Übergewicht und Adipositas aus den SEU der am Projekt beteiligten Länder und die in der Datenverarbeitung unterstützenden Kontextmaterialien. Im Datensatz enthalten sind:  
 
 * Daten zu Adipositas und Übergewicht aus den Schuleingangsuntersuchungen   
 * Datenschema der Adipositasdaten  
