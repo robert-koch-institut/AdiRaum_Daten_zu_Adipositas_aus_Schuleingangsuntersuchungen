@@ -7,7 +7,7 @@ abstract: Der Datensatz "AdiRaum – Daten zu Übergewicht und Adipositas aus Sc
   wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie
   und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards
   dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.
-date-released: '2026-03-31'
+date-released: '2026-07-06'
 keywords:
   - Open Data
   - Offene Daten
@@ -46,7 +46,7 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen
 license: CC-BY-4.0
-doi: 10.5281/zenodo.19352790
+doi: 10.5281/zenodo.21219091
 version: '2024-09-15T00:00:00+02:00'
 authors:
   - name: Robert Koch-Institut

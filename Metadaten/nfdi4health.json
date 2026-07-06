@@ -3,9 +3,6 @@
     "classification": {
       "type": "Dataset"
     },
-    "collection": [
-      "Robert Koch Institute"
-    ],
     "descriptions": [
       {
         "language": "DE (German)",
@@ -20,7 +17,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.19352790",
+        "identifier": "10.5281/zenodo.21219091",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -173,7 +170,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-03-31"
+      "version": "2026-07-06"
     },
     "webpage": "https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
     "contributors": [
