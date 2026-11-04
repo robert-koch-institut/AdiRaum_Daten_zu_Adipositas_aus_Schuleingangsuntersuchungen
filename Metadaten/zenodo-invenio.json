@@ -4,7 +4,7 @@
   "resource_type": {
     "id": "dataset"
   },
-  "publication_date": "2026-07-06",
+  "publication_date": "2026-11-04",
   "creators": [
     {
       "person_or_org": {
@@ -134,6 +134,15 @@
     {
       "person_or_org": {
         "type": "organizational",
+        "name": "Sozialbehörde Hamburg"
+      },
+      "role": {
+        "id": "datacurator"
+      }
+    },
+    {
+      "person_or_org": {
+        "type": "organizational",
         "name": "Hessisches Landesamt für Gesundheit und Pflege"
       },
       "role": {
@@ -169,10 +178,10 @@
     }
   ],
   "publisher": "Zenodo",
-  "version": "2026-07-06",
+  "version": "2026-11-04",
   "dates": [
     {
-      "date": "2024-09-15T00:00:00+02:00",
+      "date": "2026-11-04T14:09:30+01:00",
       "type": {
         "id": "created"
       },

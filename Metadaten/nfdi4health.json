@@ -17,7 +17,7 @@
     ],
     "ids": [
       {
-        "identifier": "10.5281/zenodo.21219091",
+        "identifier": "10.5281/zenodo.23594485",
         "typeGeneral": "Dataset",
         "relationType": "A references B",
         "scheme": "DOI"
@@ -170,7 +170,7 @@
         },
         "label": "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
       },
-      "version": "2026-07-06"
+      "version": "2026-11-04"
     },
     "webpage": "https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen",
     "contributors": [
@@ -324,6 +324,18 @@
         ],
         "organisational": {
           "name": "Die Senatorin für Gesundheit, Frauen und Verbraucherschutz (Bremen)",
+          "type": "Data curator"
+        }
+      },
+      {
+        "nameType": "Organisational",
+        "affiliations": [
+          {
+            "name": "Sozialbehörde Hamburg"
+          }
+        ],
+        "organisational": {
+          "name": "Sozialbehörde Hamburg",
           "type": "Data curator"
         }
       },

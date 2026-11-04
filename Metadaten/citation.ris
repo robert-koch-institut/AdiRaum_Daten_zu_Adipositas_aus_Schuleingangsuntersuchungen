@@ -1,0 +1,45 @@
+TY  - DATA
+AB  - Der Datensatz "AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen" des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen, die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.
+AU  - Robert Koch-Institut
+DA  - 2026-11-04
+DO  - 10.5281/zenodo.23594485
+KW  - Open Data
+KW  - Offene Daten
+KW  - Adipositas
+KW  - Körpergewicht
+KW  - Öffentliche Berichterstattung über Gesundheitsdaten
+KW  - Übergewicht
+KW  - RKI
+KW  - Deutschland
+KW  - Obesity
+KW  - Overweight
+KW  - Body Weight
+KW  - Public Reporting of Healthcare Data
+KW  - Schuleingangsuntersuchung
+KW  - Einschulungsuntersuchung
+KW  - School entrance examination
+KW  - Vorschulkinder
+KW  - Preschool children
+KW  - Einflussfaktoren
+KW  - Influencing factors
+KW  - Small-Area Analysis
+KW  - kleinräumige Datenanalyse
+KW  - sozioökonomische Deprivation
+KW  - Socioeconomic deprivation
+KW  - Indikatoren
+KW  - indicators
+KW  - Kindergesundheit
+KW  - Child health
+KW  - Gesundheitsmonitoring
+KW  - Public Health Surveillance
+KW  - Gesundheitsberichterstattung
+KW  - Health Reporting
+KW  - AdiRaum
+KW  - Dashboard
+KW  - Germany
+PY  - 2026
+TI  - AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen
+UR  - https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen
+ET  - 2026-11-04
+N1  - License: CC-BY-4.0
+ER  -

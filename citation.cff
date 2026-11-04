@@ -1,13 +1,14 @@
 cff-version: 1.2.0
 type: dataset
 title: AdiRaum - Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen
-abstract: Der Datensatz "AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen"
+abstract: >-
+  Der Datensatz "AdiRaum – Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen"
   des Robert Koch-Instituts beinhaltet Daten zu Übergewicht und Adipositas aus Schuleingangsuntersuchungen,
   die im Rahmen der Projekte AdiRaum und AdiRaum 2.0 aus den Ländern zusammengeführt
   wurden. Die Daten sind auf Kreisebene aggregiert und wurden mit Indikatoren zu Soziodemografie
   und Siedlungsstruktur verknüpft. Sie stellen die Datengrundlage des AdiRaum-Dashboards
   dar und werden für die Gesundheitsberichterstattung des Bundes genutzt.
-date-released: '2026-07-06'
+date-released: '2026-11-04'
 keywords:
   - Open Data
   - Offene Daten
@@ -46,8 +47,8 @@ keywords:
 message: Cite me!
 url: https://robert-koch-institut.github.io/AdiRaum_Daten_zu_Adipositas_aus_Schuleingangsuntersuchungen
 license: CC-BY-4.0
-doi: 10.5281/zenodo.21219091
-version: '2024-09-15T00:00:00+02:00'
+doi: 10.5281/zenodo.23594485
+version: '2026-11-04'
 authors:
   - name: Robert Koch-Institut
     email: info@rki.de
