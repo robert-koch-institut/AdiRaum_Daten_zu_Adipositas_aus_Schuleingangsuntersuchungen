@@ -57,7 +57,10 @@ In den Projekten AdiRaum und AdiRaum 2.0 wurde in enger Zusammenarbeit mit der G
 
 > [AdiRaum-Dashboard](https://public.data.rki.de/t/public/views/AdiRaum_Dashboard/Dashboard) 
 
-Details zum Pilotprojekt finden sich in Kühnelt C, Starker A, Varnaccia G, Schienkiewitz A (2023) Schuleingangsuntersuchungen als kleinräumige Datenquelle für ein Monitoring der Kindergesundheit am Beispiel Adipositas. J Health Monit 8(2): 6–20. DOI [10.25646/11297](https://doi.org/10.25646/11297)  
+Details zum Projekt finden sich in folgenden Publikationen: 
+> Kühnelt C, Starker A, Varnaccia G, Schienkiewitz A (2023) Schuleingangsuntersuchungen als kleinräumige Datenquelle für ein Monitoring der Kindergesundheit am Beispiel Adipositas. J Health Monit 8(2): 6–20. DOI [10.25646/11297](https://doi.org/10.25646/11297)  
+
+> Kühnelt C, Starker A, Augel N, Dilger C, Morlock G, Mühlenbruch K, Oberwöhrmann S, Rech J, Schüle S, Spröwitz A, Schienkiewitz A (2026) Sozialräumliche Unterschiede von Übergewicht und Adipositas im Vorschulalter: Ein Überblick mit Daten der Schuleingangsuntersuchung. J Health Monit; 11: 1-12. DOI [10.25646/14232](https://doi.org/10.25646/14232)  
 
 ### Administrative und organisatorische Angaben  
 Das Pilotprojekt AdiRaum ("Erschließung kleinräumig aussagekräftiger Daten aus den Schuleingangsuntersuchungen für das bundesweite Gesundheitsmonitoring am Beispiel der Übergewichts- und Adipositasprävalenzen") wurde im Zeitraum 01.05.2022 bis 31.12.2022 durchgeführt und aus Sonderforschungsmitteln des Robert Koch-Instituts finanziert.  
